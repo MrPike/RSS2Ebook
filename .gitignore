@@ -179,3 +179,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.idea/
+*.epub
+*.pdf
+*.docx
+HTML_Out/*
