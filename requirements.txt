@@ -1,0 +1,4 @@
+lxml
+feedparser
+goose3
+requests
